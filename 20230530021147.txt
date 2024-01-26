@@ -1,0 +1,15 @@
+Student ID: 99
+Name: mehwish
+Age: 88
+Grade: 90
+
+Student ID: 88
+Name: sabra
+Age: 44
+Grade: 99
+
+Student ID: 44
+Name: sikandar
+Age: 44
+Grade: 55
+
